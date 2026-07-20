@@ -1,0 +1,11 @@
+{
+  "id": "abc", "title": "Example video", "webpage_url": "https://example.com/watch/abc",
+  "extractor_key": "Example", "uploader": "Example channel", "duration": 125,
+  "thumbnail": "https://example.com/thumb.jpg", "view_count": 42, "upload_date": "20260101",
+  "subtitles": {"fr": [{"ext": "vtt"}]},
+  "formats": [
+    {"format_id": "18", "ext": "mp4", "height": 360, "vcodec": "avc1", "acodec": "mp4a", "filesize": 1000},
+    {"format_id": "137", "ext": "mp4", "height": 1080, "vcodec": "avc1", "acodec": "none", "filesize_approx": 5000}
+  ]
+}
+
